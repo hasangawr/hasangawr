@@ -1,1 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hasanga</h1>
+### Hello there 👋
+
+#### Full-Stack Developer | JavaScript | AWS
+
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
+- 💅 Designed: [plancraftr.com](https://www.plancraftr.com) etc…
