@@ -1,22 +1,4 @@
-# Hi! 😊 So glad you stopped by—check out what I’ve been building!
-
-I'm Hasanga, a passionate **Full-Stack Developer** and **DevOps Enthusiast** eager to learn and create efficient, user-friendly applications. 🚀  
-
-🌟 I’m currently working on:  
-- **PlanCraftr** - A goal-planning and productivity app designed to help users achieve their dreams.  
-
-🌱 **What I'm Learning:**  
-- **MERN Stack**: Building dynamic full-stack web applications.  
-- **DevOps**: Enhancing workflows, automation, and deployments.  
-- **Infrastructure as Code (IaC)**: Automating infrastructure setup using tools like Terraform and AWS CloudFormation.  
-
-🔭 **What I’m Working On:**  
-- Building seamless integrations for MERN stack applications  
-- Automating workflows with AWS and custom JavaScript solutions  
-
----
-
-## 🛠️ Skills & Tools  
+# Hi! 😊
 
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,12 +15,9 @@ I'm Hasanga, a passionate **Full-Stack Developer** and **DevOps Enthusiast** eag
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasangawr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanga-weerasinghe)
 
 ---
-
-
-👨‍💻 **Let’s Collaborate!** I’m always open to collaborating on exciting projects. Feel free to reach out! 
